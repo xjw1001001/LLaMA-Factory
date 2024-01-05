@@ -163,3 +163,15 @@ cython_debug/
 user.config
 saves/
 cache/
+chatglm3_price_tag/special_tokens_map.json
+chatglm3_price_tag/config.json
+chatglm3_price_tag/configuration_chatglm.py
+chatglm3_price_tag/generation_config.json
+chatglm3_price_tag/model-00001-of-00002.safetensors
+chatglm3_price_tag/model-00002-of-00002.safetensors
+chatglm3_price_tag/model.safetensors.index.json
+chatglm3_price_tag/modeling_chatglm.py
+chatglm3_price_tag/quantization.py
+chatglm3_price_tag/tokenization_chatglm.py
+chatglm3_price_tag/tokenizer.model
+chatglm3_price_tag/tokenizer_config.json
