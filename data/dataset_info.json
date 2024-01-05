@@ -299,5 +299,21 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "price_tag_train": {
+    "file_name": "train_price_tag.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "price_tag_valid": {
+    "file_name": "valid_price_tag.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
   }
 }
