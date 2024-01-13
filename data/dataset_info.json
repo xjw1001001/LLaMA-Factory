@@ -334,5 +334,13 @@
       "query": "input",
       "response": "output"
     }
+  },
+  "brand_valid_all": {
+    "file_name": "brand_valid_data.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
   }
 }

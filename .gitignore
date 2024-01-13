@@ -175,3 +175,4 @@ chatglm3_price_tag/quantization.py
 chatglm3_price_tag/tokenization_chatglm.py
 chatglm3_price_tag/tokenizer.model
 chatglm3_price_tag/tokenizer_config.json
+data/brand_valid_data.json
