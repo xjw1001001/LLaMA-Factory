@@ -301,7 +301,7 @@
     "folder": "python"
   },
   "price_tag_train": {
-    "file_name": "train_price_tag.json",
+    "file_name": "price_train_data.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -309,7 +309,23 @@
     }
   },
   "price_tag_valid": {
-    "file_name": "valid_price_tag.json",
+    "file_name": "price_test_data.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "brand_train": {
+    "file_name": "brand_train_data.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "brand_valid_1": {
+    "file_name": "brands/brand_valid_data_split_1.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
